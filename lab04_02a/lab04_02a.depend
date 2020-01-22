@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1571462931 source:/Users/wenlang/Desktop/1A/lab04_02a/main.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	<vector>
+	<stdio.h>
+	<stdlib.h>
+
